@@ -1,0 +1,8 @@
+
+{
+  "name": "Dashboard Pelaporan Kebocoran Plafon",
+  "description": "A comprehensive ticketing dashboard for reporting and monitoring structural issues in outlets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
